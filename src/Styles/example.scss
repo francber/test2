@@ -1,0 +1,26 @@
+
+.begoneborder {
+    border: none;
+    background: none;
+    padding:0;
+}
+body {
+
+    background-color: lightblue;
+    section {
+        width:1000px;
+        height:500px;
+        font-size: 12;
+    }
+}
+.centred{
+    background-image:url(../multimedia/card.png);
+    width:109px;
+    height:150px;
+    cursor: pointer;
+}
+.centredenemy{
+    background-image:url(../multimedia/cardturnedover.png);
+    width:109px;
+    height:150px;
+}
